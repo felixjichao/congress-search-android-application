@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3d3d3d</color>
+    <color name="colorBlack">#131313</color>
     <color name="colorPrimaryDark">#3d3d3d</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorStart">#f1f1f1</color>
+    <color name="colorEnd">#d0d0d0</color>
+    <color name="sidebarBg">#c4c4c4</color>
+    <color name="tabBg">#fafafa</color>
+    <color name="topBg">#3d3d3d</color>
 </resources>
